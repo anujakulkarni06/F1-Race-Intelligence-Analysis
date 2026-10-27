@@ -19,4 +19,4 @@ The Tableau workbook is available in this repository:
 Anuja Kulkarni
 
 ## Tableau Public Dashboard
-[View Interactive Dashboard](PASTE_YOUR_TABLEAU_PUBLIC_DASHBOARD_LINK_HERE)
+[View Interactive Dashboard](https://public.tableau.com/views/F1RaceIntelligenceAnalysis_17931211717030/F1RaceIntelligenceDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
